@@ -1,0 +1,10 @@
+Package: Ex3
+Type: Package
+Title: Functions of Exercise 3
+Version: 0.1.0
+Author: Heribert Roig, Antoni Bosch, Nuria Bosch
+Maintainer: The package maintainer <nuria.bosch@estudiantat.upc.edu>
+Description: It includes 3 functions useful to analyze data with gas emissions per countries or decades.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
